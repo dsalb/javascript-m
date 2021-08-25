@@ -7,3 +7,8 @@
     - Patrón módulo
     - Reutilización de código mediante funciones agregadas
     - Ofuscación de código y descenso de tamaño de archivo mediante minificación
+- Webpack, NPM, Babel
+- Laboratorio 2 - To do list
+    - Clases
+    - DOM
+    - LocalStorage
