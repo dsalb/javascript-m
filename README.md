@@ -12,3 +12,11 @@
     - Clases
     - DOM
     - LocalStorage
+- Callbacks y promesas
+    - Async y await
+    - Try, catch
+    - Promesas anidadas
+- Peticiones HTTP
+    - fetch
+    - Ejercicio CRUD
+    - Consumo de servicios
