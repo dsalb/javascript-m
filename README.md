@@ -2,6 +2,8 @@
 [Curso](https://www.udemy.com/course/javascript-fernando-herrera/) JavaScript a cargo de Fernando Herrera en la plataforma Udemy. 
 
 ###
+- Primitivos, arreglos, objetos y funciones
+- Ciclos y estructuras de control
 - Laboratorio 1 - Blackjack 1. Jugador vs IA
 - Optimización de Laboratorio 1:
     - Patrón módulo
